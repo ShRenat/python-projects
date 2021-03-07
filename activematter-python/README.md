@@ -10,9 +10,9 @@ Simulate Active Matter: Viscek Model for Flocking Birds
 
 
 
-'''
+```
 python activematter.py
-'''
+```
 
 
 
